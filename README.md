@@ -1,55 +1,85 @@
-<p align="left">Hei, I'm Marco 👋<br><br>I'm currently studying Computer Science @ Catania's University<br><br>you can reach me out at: calleamarco@rocketmail.com</p>
 
-###
+```
+███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗
+████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗
+██╔████╔██║███████║██████╔╝██║     ██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcocallea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcocallea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">Marco Callea</h1>
+<h3 align="center">Cybersecurity & Software Developer · Sicilia, IT</h3>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6dTg5MnV0eG5yeXQ3OWR1NjF5ZjNkano1a3RhdTc4bjBydW5nNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+> Laureato in Informatica @ UniCT. La mia tesi? Rompere applicazioni web con attacchi di **dataset poisoning** — poi difenderle.  
+> Vivo all'intersezione tra **offensive security** e **ML security**.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="30" alt="processing logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-</div>
+## 🔐 Su di me
 
-###
+- 🎓 Laurea Triennale in Informatica (L-31) — Università di Catania, **95/110**
+- 📄 Tesi: *"Dataset poisoning in applicazioni web: un approccio sistematico per l'analisi e la difesa"*
+- 🔭 Aree di interesse: **Web App Security · Penetration Testing · AI/ML Security · CTF**
+- 🛠️ Approccio: *offensive → defensive* — capire come si attacca per costruire difese solide
+- 📬 [callea9marco@outlook.it](mailto:callea9marco@outlook.it) · [linkedin.com/in/marco-callea](https://it.linkedin.com/in/marco-callea-76596b161)
 
-<div align="left">
-  <a href="https://it.linkedin.com/in/marco-callea-76596b161" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🧰 Stack
 
-<br clear="both">
+**Linguaggi**
 
-<img src="https://raw.githubusercontent.com/marcocallea/marcocallea/output/snake.svg" alt="Snake animation" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-###
+**Framework & Tools**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcocallea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcocallea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-###
+**Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+
+---
+
+## 📌 Progetti
+
+### 🔬 [Web Application Sicura — Tesi 2026](https://github.com/marcocallea)
+`Python` `FastAPI` `Machine Learning`
+
+Studio pratico degli attacchi di **data poisoning** su modelli ML integrati in applicazioni web.  
+Pipeline completa: simulazione dell'attacco → analisi delle vulnerabilità → implementazione delle difese.
+
+---
+
+### 🤖 [ReminderBot](https://github.com/marcocallea/ReminderBot)
+`Python` `Telegram Bot API`
+
+Bot Telegram open source per la gestione di promemoria con scheduling e notifiche automatiche.  
+Architettura event-driven, gestione asincrona, integrazione con API esterne.
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcocallea&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcocallea&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>security by design, not by accident.</sub>
+</p>
