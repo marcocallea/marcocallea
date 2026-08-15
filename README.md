@@ -13,7 +13,7 @@
 - **AWS Certified Solutions Architect Associate** (SAA-C03), agosto 2026 · [verifica su Credly](https://www.credly.com/badges/6db73762-70a0-4368-8dda-475fb43fef5d/public_url)
 - Focus: Cloud engineering, Infrastructure as Code, cloud security
 - Approccio *offensive to defensive*: capire come si attacca per progettare difese che reggono
-- [marcocallea.it](https://www.marcocallea.it) · [callea9marco@outlook.it](mailto:callea9marco@outlook.it) · [LinkedIn](https://it.linkedin.com/in/marco-callea-76596b161) · [TryHackMe](https://tryhackme.com/p/Rusheeerrr)
+- [marcocallea.it](https://www.marcocallea.it) · [callea9marco@outlook.it](mailto:callea9marco@outlook.it) · [LinkedIn](https://it.linkedin.com/in/marco-callea) · [TryHackMe](https://tryhackme.com/p/Rusheeerrr)
 
 ---
 
